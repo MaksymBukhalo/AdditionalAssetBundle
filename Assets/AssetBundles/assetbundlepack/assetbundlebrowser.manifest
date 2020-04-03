@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2620806339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e711d63d976cdc0eee926cee9efbb20b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 453e7870d3046e1f197b0e4fc240b951
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dc60db95a1423a4c8029caf50204739, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/AssetBundleBrowser.unity
+Dependencies:
+- C:/Users/Maksim Bukhalo/AdditionalAssetBundle/Assets/AssetBundles/assetbundlepack/models

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2955302863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b196b6d0da1e70178f1066cb47ddc79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Space_Objects/Materials/Turbine_Ultra_Outer.mat
+- Assets/Space_Objects/Materials/Burner.mat
+- Assets/Space_Objects/Materials/Burner_O.mat
+- Assets/Space_Objects/Materials/Turbine_Ultra_wings.mat
+- Assets/Space_Objects/Materials/Damaged_turbine.mat
+- Assets/Space_Objects/Materials/Turbine_Ultra_wings_i.mat
+- Assets/Space_Objects/Materials/Base.mat
+- Assets/Space_Objects/Materials/Turbine_Ultra.mat
+Dependencies:
+- C:/Users/Maksim Bukhalo/AdditionalAssetBundle/Assets/AssetBundles/assetbundlepack/textures

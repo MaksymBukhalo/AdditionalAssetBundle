@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 265626655
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: content/objectandmusic
+      Dependencies:
+        Dependency_0: assetbundlepack/materials
+        Dependency_1: assetbundlepack/models
+    Info_1:
+      Name: assetbundlepack/assetbundlebrowser
+      Dependencies:
+        Dependency_0: assetbundlepack/models
+    Info_2:
+      Name: assetbundlepack/materials
+      Dependencies:
+        Dependency_0: assetbundlepack/textures
+    Info_3:
+      Name: assetbundlepack/models
+      Dependencies:
+        Dependency_0: assetbundlepack/materials
+    Info_4:
+      Name: assetbundlepack/textures
+      Dependencies: {}

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 644486162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70e307db567050170edb3b4757dd2da7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Space_Objects/Textures/circuit_uv_1.jpg
+- Assets/Space_Objects/Textures/Wings.png
+- Assets/Space_Objects/Textures/Wings_I.png
+- Assets/Space_Objects/Textures/Turbine_outer.png
+- Assets/Space_Objects/Textures/circuit_uv_normal.jpg
+- Assets/Space_Objects/Textures/Turbine_inner.png
+- Assets/Space_Objects/Textures/ground_1.png
+- Assets/Space_Objects/Textures/Damaged_turbine.png
+Dependencies: []

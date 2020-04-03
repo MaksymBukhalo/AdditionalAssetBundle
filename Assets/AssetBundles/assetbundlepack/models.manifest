@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1019907031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8151738ef3d0b002079e580619235108
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767a59f8de390d2354823e760c737a44
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Space_Objects/Models/Space_object_O.fbx
+- Assets/Space_Objects/Models/Space_object.fbx
+- Assets/Space_Objects/Models/Base.fbx
+- Assets/Space_Objects/Models/Damaged_turbine.fbx
+- Assets/Space_Objects/Models/Ultimate.fbx
+Dependencies:
+- C:/Users/Maksim Bukhalo/AdditionalAssetBundle/Assets/AssetBundles/assetbundlepack/materials
